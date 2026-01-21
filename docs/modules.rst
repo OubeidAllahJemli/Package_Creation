@@ -17,5 +17,5 @@ string_ops
 
 .. automodule:: package_creation_tutorial.string_ops
    :members:
-   : undoc-members:
-   : show-inheritance:
+   :undoc-members:
+   :show-inheritance:
